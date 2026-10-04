@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package decode
 
@@ -19,4 +19,4 @@ func decodeRot13(s string) ([]byte, error) {
     return out, nil
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

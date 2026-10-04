@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package patternscan
 
@@ -9,8 +9,8 @@ import (
     "sync"
     "io/fs"
     "path/filepath"
-    "github.com/Zeronetsec/Woofind/utils/color"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 //go:embed patterns/patterns.txt
@@ -127,4 +127,4 @@ func Scan(
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,10 +1,10 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package invinput
 
 import (
     "fmt"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func MissingArgument() {
@@ -19,4 +19,4 @@ func MissingArgument() {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

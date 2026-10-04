@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package logger
 
@@ -7,7 +7,7 @@ import (
     "os"
     "time"
     "path/filepath"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func (l *Logger) Log(tag string, message string) error {
@@ -61,4 +61,4 @@ func (l *Logger) Log(tag string, message string) error {
     return err
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

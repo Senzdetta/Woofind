@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package decode
 
@@ -14,4 +14,4 @@ func decodeURL(s string) ([]byte, error) {
     return []byte(decoded), nil
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

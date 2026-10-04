@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
 import (
-    "github.com/Zeronetsec/Woofind/module/dumpenvaddr"
+    "github.com/Senzdetta/Woofind/module/dumpenvaddr"
 )
 
 type DumpEnvAddr struct{}
@@ -22,4 +22,4 @@ func (c DumpEnvAddr) Execute(args []string) {
     dumpenvaddr.MemoryDump(shiftAddr)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
 import (
     "os"
-    "github.com/Zeronetsec/Woofind/module/decode"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/module/decode"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 type Decode struct{}
@@ -32,4 +32,4 @@ func (c Decode) Execute(args []string) {
     decode.ExecBrute(input, limit, disable)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

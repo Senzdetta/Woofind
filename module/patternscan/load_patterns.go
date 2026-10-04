@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package patternscan
 
@@ -41,4 +41,4 @@ func loadPatterns(patternPath string) ([]string, error) {
     return patterns, scanner.Err()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

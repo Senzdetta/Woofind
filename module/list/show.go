@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package list
 
@@ -6,7 +6,7 @@ import (
     "embed"
     "fmt"
     "path"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 //go:embed list/*
@@ -30,4 +30,4 @@ func Show(input string) {
     fmt.Print(string(data))
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -7,7 +7,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Woofind
+git clone https://github.com/Senzdetta/Woofind
 bash Woofind/install.sh <option>
 ```
 

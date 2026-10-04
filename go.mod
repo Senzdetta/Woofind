@@ -1,6 +1,6 @@
-module github.com/Zeronetsec/Woofind
+module github.com/Senzdetta/Woofind
 
-go 1.27.0
+go 1.27.1
 
 require github.com/shirou/gopsutil/v3 v3.24.5
 

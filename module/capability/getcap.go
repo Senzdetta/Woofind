@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package capability
 
@@ -8,8 +8,8 @@ import (
     "sync"
     "io/fs"
     "path/filepath"
-    "github.com/Zeronetsec/Woofind/utils/color"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 var idx int
@@ -110,4 +110,4 @@ func Getcap(targetPath, capStr string, threads int) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

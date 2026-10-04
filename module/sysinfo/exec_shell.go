@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package sysinfo
 
@@ -6,7 +6,7 @@ import (
     "fmt"
     "strings"
     "os/exec"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func execShell(cmd string, args ...string) string {
@@ -22,4 +22,4 @@ func execShell(cmd string, args ...string) string {
     return strings.TrimSpace(string(output))
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

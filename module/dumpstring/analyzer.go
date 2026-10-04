@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package dumpstring
 
@@ -11,7 +11,7 @@ import (
     "encoding/base32"
     "encoding/base64"
     "encoding/hex"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func Analyzer(val string) {
@@ -113,4 +113,4 @@ func Analyzer(val string) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

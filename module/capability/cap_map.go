@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package capability
 
@@ -46,4 +46,4 @@ var capMap = map[string]int{
     "cap_checkpoint_restore": 40,
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

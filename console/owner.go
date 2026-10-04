@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
@@ -6,8 +6,8 @@ import (
     "os"
     "strconv"
     "strings"
-    "github.com/Zeronetsec/Woofind/module/owner"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/module/owner"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 type Owner struct{}
@@ -45,4 +45,4 @@ func (c Owner) Execute(args []string) {
     owner.OwnScan(targetPath, ownerList, threads, force)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

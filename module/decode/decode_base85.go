@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package decode
 
@@ -21,4 +21,4 @@ func decodeBase85(s string) ([]byte, error) {
     return buf.Bytes(), err
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

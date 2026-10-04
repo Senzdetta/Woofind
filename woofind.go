@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package main
 
 import (
     "os"
     "strings"
-    "github.com/Zeronetsec/Woofind/console"
+    "github.com/Senzdetta/Woofind/console"
 )
 
 func main() {
@@ -14,4 +14,4 @@ func main() {
     console.WoofindConsole(input)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

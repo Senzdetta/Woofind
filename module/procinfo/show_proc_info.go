@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package procinfo
 
@@ -6,7 +6,7 @@ import (
     "fmt"
     "sort"
     "github.com/shirou/gopsutil/v3/process"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func ShowProcInfo() {
@@ -106,4 +106,4 @@ func ShowProcInfo() {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

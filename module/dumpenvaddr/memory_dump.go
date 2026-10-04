@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package dumpenvaddr
 
@@ -7,8 +7,8 @@ import (
     "fmt"
     "strings"
     "os/exec"
-    "github.com/Zeronetsec/Woofind/module/varaddr"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/module/varaddr"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func MemoryDump(shiftAddr string) {
@@ -48,4 +48,4 @@ func MemoryDump(shiftAddr string) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

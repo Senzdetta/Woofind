@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package useraudit
 
@@ -7,9 +7,9 @@ import (
     "fmt"
     "os"
     "strings"
-    "github.com/Zeronetsec/Woofind/utils/color"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
-    "github.com/Zeronetsec/Woofind/utils/logger"
+    "github.com/Senzdetta/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/utils/logger"
 )
 
 var idx int
@@ -183,4 +183,4 @@ func UserScan(passwdFile, shadowFile, shellStr string) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

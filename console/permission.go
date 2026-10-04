@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
@@ -6,8 +6,8 @@ import (
     "os"
     "strconv"
     "strings"
-    "github.com/Zeronetsec/Woofind/module/permission"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/module/permission"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 type Permission struct{}
@@ -42,4 +42,4 @@ func (c Permission) Execute(args []string) {
     permission.PermScan(targetPath, permList, threads)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

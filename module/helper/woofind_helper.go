@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package helper
 
@@ -7,9 +7,9 @@ import (
     "fmt"
     "encoding/json"
     "io/fs"
-    "github.com/Zeronetsec/Woofind/utils/color"
-    "github.com/Zeronetsec/Woofind/utils/birthday"
-    "github.com/Zeronetsec/Woofind/utils/banner"
+    "github.com/Senzdetta/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/birthday"
+    "github.com/Senzdetta/Woofind/utils/banner"
 )
 
 //go:embed metadata/*
@@ -68,4 +68,4 @@ func WoofindHelper() {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

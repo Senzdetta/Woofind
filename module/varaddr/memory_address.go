@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package varaddr
 
@@ -7,7 +7,7 @@ import (
     "os"
     "strconv"
     "unsafe"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func MemoryAddress(varName string, shiftAddrStr string) {
@@ -48,4 +48,4 @@ func MemoryAddress(varName string, shiftAddrStr string) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
 import (
     "os"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
-    "github.com/Zeronetsec/Woofind/module/dumpstring"
+    "github.com/Senzdetta/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/module/dumpstring"
 )
 
 type Dumpstring struct{}
@@ -18,4 +18,4 @@ func (c Dumpstring) Execute(args []string) {
     dumpstring.Analyzer(args[2])
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

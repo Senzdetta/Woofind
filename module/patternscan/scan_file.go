@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package patternscan
 
@@ -8,8 +8,8 @@ import (
     "os"
     "bufio"
     "strings"
-    "github.com/Zeronetsec/Woofind/utils/logger"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/logger"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 func scanFile(
@@ -60,4 +60,4 @@ func scanFile(
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

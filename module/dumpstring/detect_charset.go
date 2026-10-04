@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package dumpstring
 
@@ -33,4 +33,4 @@ func detectCharset(s string) string {
     return strings.Join(keys, ", ")
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

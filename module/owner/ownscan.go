@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package owner
 
@@ -10,8 +10,8 @@ import (
     "io/fs"
     "os/user"
     "path/filepath"
-    "github.com/Zeronetsec/Woofind/utils/color"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 var idx int
@@ -135,4 +135,4 @@ func OwnScan(
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

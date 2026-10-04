@@ -1,17 +1,17 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package version
 
 import (
     "fmt"
-    "github.com/Zeronetsec/Woofind/utils/color"
+    "github.com/Senzdetta/Woofind/utils/color"
 )
 
 const (
     name = "Woofind"
     version = "v0.1.04102026"
-    creator = "Zeronetsec"
-    homepage = "https://github.com/Zeronetsec/Woofind"
+    creator = "Senzdetta"
+    homepage = "https://github.com/Senzdetta/Woofind"
 )
 
 func WoofindVersion() {
@@ -36,4 +36,4 @@ func WoofindVersion() {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

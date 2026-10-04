@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
 import (
     "os"
-    "github.com/Zeronetsec/Woofind/module/varaddr"
-    "github.com/Zeronetsec/Woofind/utils/invinput"
+    "github.com/Senzdetta/Woofind/module/varaddr"
+    "github.com/Senzdetta/Woofind/utils/invinput"
 )
 
 type VarAddr struct{}
@@ -31,4 +31,4 @@ func (c VarAddr) Execute(args []string) {
     varaddr.MemoryAddress(varName, shiftAddr)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

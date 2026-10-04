@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package decode
 
@@ -6,4 +6,4 @@ func looksReasonable(data []byte) bool {
     return printableRatio(data) >= 0.8 && len(data) >= 3
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

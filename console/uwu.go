@@ -1,12 +1,12 @@
-// https://github.com/Zeronetsec/Woofind
+// https://github.com/Senzdetta/Woofind
 
 package console
 
 import (
     "time"
     "fmt"
-    "github.com/Zeronetsec/Woofind/utils/cursor"
-    "github.com/Zeronetsec/Woofind/module/uwu"
+    "github.com/Senzdetta/Woofind/utils/cursor"
+    "github.com/Senzdetta/Woofind/module/uwu"
 )
 
 type UWU struct{}
@@ -18,4 +18,4 @@ func (c UWU) Execute(args []string) {
     fmt.Println()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta
