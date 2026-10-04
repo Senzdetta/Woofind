@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Woofind -->
-
 <div align="center">
     <img src="https://img.shields.io/badge/Woofind-Version%200.1-blue?style=square&logo=go&v=1" />
     <img src="https://img.shields.io/badge/Supported%20OS-Linux-blue?style=square&logo=linux&v=1" />
@@ -41,5 +39,3 @@ woofind --decode susfile.txt --limit unlimit --disable 'rot13:morse'
 woofind --owner /usr/bin/ --force
 ```
 And more commands.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
