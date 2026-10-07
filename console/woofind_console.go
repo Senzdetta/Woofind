@@ -20,7 +20,7 @@ func WoofindConsole(input string) {
         "--checkroot": Checkroot{},
         "--dumpstring": Dumpstring{},
         "--decode": Decode{},
-        "--uwu": UWU{},
+        "--uwu": Uwu{},
         "--version": Version{},
         "--help": Helper{},
         "--pattern-scan": PatternScan{},
