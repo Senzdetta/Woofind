@@ -1,5 +1,5 @@
 coreutils
 inetutils::{inet-utils,hostname}
-golang
+golang::golang-go
 zip
 procps
